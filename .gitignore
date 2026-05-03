@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+output-videos/
+output-images/
+test-inputs/
+local.db

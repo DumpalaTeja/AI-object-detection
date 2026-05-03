@@ -1,0 +1,22 @@
+#root {
+  margin: 20px;
+}
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.videos-container {
+  display: flex;
+}
+.main-app {
+  width: 90vw;
+  min-width: 720px;
+}
+
+::placeholder {
+  margin-left: 10px;
+}
